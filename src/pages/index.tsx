@@ -10,6 +10,7 @@ const Home: React.FC = () => {
       </Head>
 
       <main>
+        <h1>NextJS App</h1>
         <Button>MyButton</Button>
       </main>
     </>
