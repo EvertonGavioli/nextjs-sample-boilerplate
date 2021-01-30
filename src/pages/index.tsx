@@ -6,7 +6,7 @@ const Home: React.FC = () => {
   return (
     <>
       <Head>
-        <title>My Next App</title>
+        <title>My Next App - Task#2</title>
       </Head>
 
       <main>
