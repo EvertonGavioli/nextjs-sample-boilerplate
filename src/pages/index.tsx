@@ -6,11 +6,11 @@ const Home: React.FC = () => {
   return (
     <>
       <Head>
-        <title>My Next App - Task#2</title>
+        <title>My Next App</title>
       </Head>
 
       <main>
-        <h1>NextJS App</h1>
+        <h1>NextJS App - Task#2</h1>
         <Button>MyButton</Button>
       </main>
     </>
