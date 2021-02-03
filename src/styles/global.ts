@@ -9,8 +9,8 @@ export default createGlobalStyle`
   }
 
   body {
-    background: ${(props) => props.theme.palette.primary.main};
-    color: ${(props) => props.theme.palette.common.white};
+    /* background: ${(props) => props.theme.palette.primary.main};
+    color: ${(props) => props.theme.palette.common.white}; */
     -webkit-font-smoothing: antialiased;
   }
 
